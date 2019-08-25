@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccessViolationWithTail", "AccessViolationWithTail\AccessViolationWithTail.csproj", "{28F836B3-A3FD-4F5D-BBED-25E6D2B1535B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TailCallTestAssembly", "TailCallTestAssembly\TailCallTestAssembly.csproj", "{7A056C6D-FAF9-4608-86BA-951AD66D390C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28F836B3-A3FD-4F5D-BBED-25E6D2B1535B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28F836B3-A3FD-4F5D-BBED-25E6D2B1535B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28F836B3-A3FD-4F5D-BBED-25E6D2B1535B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28F836B3-A3FD-4F5D-BBED-25E6D2B1535B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A056C6D-FAF9-4608-86BA-951AD66D390C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A056C6D-FAF9-4608-86BA-951AD66D390C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A056C6D-FAF9-4608-86BA-951AD66D390C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A056C6D-FAF9-4608-86BA-951AD66D390C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A062B600-24D5-4E25-97CA-E9D02D42C6EF}
+	EndGlobalSection
+EndGlobal
